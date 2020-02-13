@@ -20,3 +20,9 @@ composer install
 
 php artisan serve
 ```
+
+And then ... ENJOY ! 
+
+```
+http://localhost:3000/
+```
